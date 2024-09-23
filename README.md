@@ -1,6 +1,6 @@
 # Finance-tracker
 This is a app that will store and track finances. This includes Transactions, setting and viewing budgets and savings goals
-
+(Everything is in the Finance Tracker File to keep everything together)
 
 Full Disclosure
 
